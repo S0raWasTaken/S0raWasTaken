@@ -1,16 +1,20 @@
-### Hi there 👋
+## Opa, bão?
+Mim ser S0ra, estudante de SI e apaixonado pela Segurança da Informação e por projetos de automação<br/>
+Tenho um servidor de Minecraft chamado RoseCraft, link para o discord [aqui](https://discord.rosecraft.com.br)
+<br/><br/>
+**Linguagens que eu aprendi:**
+- Javascript (NodeJS)
+- Java
+- HTML
+- Shell
+- CSS
+- Skriptlang
+<br/><br/>
 
-<!--
-**S0raWasTaken/S0raWasTaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Linguagens que pretendo aprender:**
+- C, C#, C++
+- Python
+- Go
+- Ruby
+- SQL
+- PHP
