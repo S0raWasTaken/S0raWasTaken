@@ -22,7 +22,7 @@ Tenho um servidor de Minecraft chamado RoseCraft, link para o Discord [aqui](htt
 
 **Projetos atuais:**
 - Rosecraft-bot (Bot para o servidor do [Discord](https://discord.rosecraft.com.br) do RoseCraft)
-- WingsConsole (Comunicação simples da API do painél Pterodactyl com o terminal linux, cmd ou powershell)
+- WingsConsole (Comunicação simples da API do painél Pterodactyl com o terminal unix, cmd ou powershell)
 <br/><br/>
 
 Email para contato comercial: [s0ra@rosecraft.com.br](mailto:s0ra@rosecraft.com.br)<br/>
