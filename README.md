@@ -9,20 +9,20 @@ Tenho um servidor de Minecraft chamado RoseCraft, link para o Discord [aqui](htt
 - Shell
 - CSS
 - Skriptlang
+- Python
+- Go
+- Rust
 <br/><br/>
 
 **Linguagens que pretendo aprender:**
 - C, C#, C++
-- Python
-- Go
 - Ruby
 - SQL
 - PHP
 <br/><br/>
 
 **Projetos atuais:**
-- Rosecraft-bot (Bot para o servidor do [Discord](https://discord.rosecraft.com.br) do RoseCraft)
-- WingsConsole (Comunicação simples da API do painél Pterodactyl com o terminal unix, cmd ou powershell)
+- pacw
 <br/><br/>
 
 Email para contato comercial: [s0ra@rosecraft.com.br](mailto:s0ra@rosecraft.com.br)<br/>
