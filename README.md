@@ -17,6 +17,5 @@ Mim ser S0ra, estudante de SI e amante de Infosec
 
 **Linguagens que pretendo aprender:**
 - C
-<br/>
 Discord: S0ra#2255<br/>
 Element: s0rawastaken:matrix.org
