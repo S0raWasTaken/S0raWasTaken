@@ -17,8 +17,7 @@ Mim ser S0ra, estudante de SI e amante de Infosec
 
 **Linguagens que pretendo aprender:**
 - C
-<br/><br/>
-
+<br/>
 **Projetos atuais:**
 - [pacw](https://github.com/S0raWasTaken/pacw)
 - [rugen](https://github.com/S0raWasTaken/rugen)
