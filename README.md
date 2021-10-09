@@ -12,7 +12,7 @@ Mim ser S0ra, estudante de SI e amante de Infosec
 - Go
 - SQL
 - C++
-- Rust
+- Rust (Atualmente minha favorita)
 <br/><br/>
 
 **Linguagens que pretendo aprender:**
