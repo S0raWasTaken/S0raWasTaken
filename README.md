@@ -19,7 +19,7 @@ Mim ser S0ra, estudante de SI e amante de Infosec
 - C
 <br/>
 **Projetos atuais:** <br/>
-- [pacw](https://github.com/S0raWasTaken/pacw)
+- [pacw](https://github.com/S0raWasTaken/pacw)<br/>
 - [rugen](https://github.com/S0raWasTaken/rugen)
 <br/><br/>
 Discord: S0ra#2255
