@@ -1,22 +1,20 @@
-## Opa, bão?
-Mim ser S0ra, estudante de SI e amante de Infosec
+## Howdy!
+I'm S0ra, IT student and Infosec amateur
 <br/><br/>
-**Linguagens que eu aprendi:**
+**Languages that I leaned:**
 - Javascript (NodeJS)
-- Java
-- HTML
-- Shell
-- CSS
-- Skriptlang
+- Java/Processing
+- Bash
 - Python
 - Go
 - SQL
 - C++
-- Rust (Atualmente minha favorita)
+- Rust (Favorite)
 <br/><br/>
 
-**Linguagens que pretendo aprender:**
+**Still want to lean:**
 - C
 <br/>
 Discord: S0ra#2255<br/>
-Element: s0rawastaken:matrix.org
+Element: s0rawastaken:matrix.org<br/>
+Linkedin: [here](https://www.linkedin.com/in/matheus-iannuzzi-799955224/)
