@@ -12,7 +12,7 @@ I'm S0ra, IT student and Infosec amateur
 - Rust (Favorite)
 <br/><br/>
 
-**Still want to lean:**
+**Still want to learn:**
 - C
 <br/>
 Discord: S0ra#2255<br/>
