@@ -17,4 +17,4 @@ I'm S0ra, IT student and Infosec amateur
 <br/>
 Discord: S0ra#2255<br/>
 Element: s0rawastaken:matrix.org<br/>
-Linkedin: [here](https://www.linkedin.com/in/matheus-iannuzzi-799955224/)
+Linkedin: https://www.linkedin.com/in/matheus-iannuzzi-799955224/
