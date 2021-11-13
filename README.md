@@ -21,3 +21,5 @@ Linkedin: https://www.linkedin.com/in/matheus-iannuzzi-799955224/
 
 <br/><br/>
 I use arch btw
+<br>
+![](https://komarev.com/ghpvc/?username=S0raWasTaken)
