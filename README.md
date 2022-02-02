@@ -1,5 +1,5 @@
 ## Howdy!
-I'm S0ra, a Web3 and open source collaborator<br/>
+I'm S0ra, a Web3 and open-source collaborator<br/>
 Currently working at [InvArch](https://invarch.network)<br/><br/>
 Discord: `S0ra#2255`<br/>
 Matrix: `@s0rawastaken:matrix.org`<br/>
