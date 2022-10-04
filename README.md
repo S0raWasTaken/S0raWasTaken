@@ -8,5 +8,6 @@ _I'm not always accepting invites on Discord, so consider messaging me on Linked
 <br>
 I use Artix & Void Linux btw
 <br>
+![](https://komarev.com/ghpvc/?username=S0raWasTaken)<br>
 My readme stats broke ¯\_(ツ)_/¯
 <br>
