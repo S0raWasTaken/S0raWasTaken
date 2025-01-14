@@ -17,7 +17,7 @@ I'm S0ra, a Rust software developer!<br/>
 In this profile, you'll mostly find software written in Rust, which is my favorite
 programming language!<br>
 
-I'm 21 years old developer. My native language is Portuguese, but I also speak English (C2).
+I'm 21 years old. My native language is Portuguese, but I also speak English (C2).
 
 I'm also experienced on blockchain development with [Substrate](https://substrate.dev). My first job was at [InvArch](https://invarch.network).
 
