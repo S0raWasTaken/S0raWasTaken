@@ -17,11 +17,9 @@ I'm S0ra, a Rust software developer!<br/>
 In this profile, you'll mostly find software written in Rust, which is my favorite
 programming language!<br>
 
-I'm a 19 years old, male and brazilian developer. My native language is Portuguese, but I also speak English
-fluently and I'm on my way studying Japanese too.
+I'm 21 years old developer. My native language is Portuguese, but I also speak English (C2).
 
-I'm also a bit experienced on blockchain development with [Substrate](https://substrate.dev). My first job was at [InvArch](https://invarch.network) 
-and I had a real good time there.
+I'm also experienced on blockchain development with [Substrate](https://substrate.dev). My first job was at [InvArch](https://invarch.network).
 
 I own a Void server that's been running for a whole year non-stop by now, hosting some Discord bots and some funny websites I made too. Server administration and backend development is for sure one of my skills and I really love it.
 <details>
