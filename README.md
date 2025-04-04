@@ -28,7 +28,7 @@ I own a Void server that's been running for a whole year non-stop by now, hostin
   ![](https://cdn.discordapp.com/attachments/990665646075441172/1055750295570878484/neofetch.png)
 </details>
 
-My screen name is S0ra, but in professional contexts you may want to call me by my actual name, Matheus.
+My screen name is S0ra, but in professional contexts, you may want to call me by my actual name, Matheus, or Matthew if you prefer.
 
 ## Some extra info
 ### Stats
