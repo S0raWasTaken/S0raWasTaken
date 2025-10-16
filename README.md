@@ -6,7 +6,7 @@ I'm S0ra, a Rust software developer!<br/>
   <summary>Expand!</summary>
   
   - Email: `s0ra@duck.com`<br/>
-  - Discord: `S0ra#2255`<br/>
+  - Discord: `s0ra__`<br/>
   - Matrix: `@s0rawastaken:matrix.org`<br/>
   - Linkedin: https://www.linkedin.com/in/matheus-iannuzzi-799955224/<br>
   
