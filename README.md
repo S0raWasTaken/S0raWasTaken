@@ -33,7 +33,7 @@ My screen name is S0ra, but in professional contexts, you may want to call me by
 ## Some extra info
 ### Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=S0raWasTaken&show_icons=true&theme=transparent&exclude_repo=dotfiles)
-![](https://github-readme-stats.vercel.app/api?username=S0raWasTaken&show_icons=true&theme=transparent)<br>
+<br>
 ![](https://komarev.com/ghpvc/?username=S0raWasTaken)
 
 ### What is "Bodia"?
