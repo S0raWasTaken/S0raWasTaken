@@ -1,9 +1,12 @@
-# Bodia!
-I'm S0ra, a Rust software developer!<br/>
+Greetings, I'm S0ra, your usual Software Engineer.
 
-## Contact Info
+In this profile, you'll mostly find software written in Rust, as it's pretty convenient to work with.<br>
+I'm 21 years old. I speak Portuguese natively and I'm C2 level in English.<br>
+I have some experience in blockchain development with [Substrate](https://substrate.dev), since my first job was at [InvArch](https://invarch.network). Nowadays I mostly mess with my own little projects and server stuff.
+
+Have a look at my pinned projects, I think they're pretty cool.
 <details>
-  <summary>Expand!</summary>
+  <summary>Contact me</summary>
   
   - Email: `s0ra@duck.com`<br/>
   - Discord: `s0ra__`<br/>
@@ -12,33 +15,4 @@ I'm S0ra, a Rust software developer!<br/>
   
   _Please prefer emailing or messaging me on Linkedin, thank you!_
 </details>
-
-## About me
-In this profile, you'll mostly find software written in Rust, which is my favorite
-programming language!<br>
-
-I'm 21 years old. My native language is Portuguese, but I also speak English (C2).
-
-I'm also experienced on blockchain development with [Substrate](https://substrate.dev). My first job was at [InvArch](https://invarch.network).
-
-I own a Void server that's been running for a whole year non-stop by now, hosting some Discord bots and some funny websites I made too. Server administration and backend development is for sure one of my skills and I really love it.
-<details>
-  <summary>Screenshot!</summary>
-  
-  ![](https://cdn.discordapp.com/attachments/990665646075441172/1055750295570878484/neofetch.png)
-</details>
-
-My screen name is S0ra, but in professional contexts, you may want to call me by my actual name, Matheus, or Matthew if you prefer.
-
-## Some extra info
-### Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=S0raWasTaken&show_icons=true&theme=transparent&exclude_repo=dotfiles)
-<br>
 ![](https://komarev.com/ghpvc/?username=S0raWasTaken)
-
-### What is "Bodia"?
-"Bodia" is an abbreviation for "Bom dia", that means **good morning!**
-
-## TL;DR
-I like Linux, open source software and Rust. <br>
-I'm a software engineer and system admin with also some blockchain development (Substrate) knowledge.
