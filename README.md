@@ -15,4 +15,5 @@ Have a look at my pinned projects, I think they're pretty cool.
   
   _Please prefer emailing or messaging me on Linkedin, thank you!_
 </details>
-![](https://komarev.com/ghpvc/?username=S0raWasTaken)
+
+![](https://komarev.com/ghpvc/?username=S0raWasTaken&style=flat-square&color=a900ff)
