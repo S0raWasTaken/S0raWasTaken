@@ -10,10 +10,10 @@ Have a look at my pinned projects, I think they're pretty cool.
   
   - Email: `s0ra@duck.com`<br/>
   - Discord: `s0ra__`<br/>
-  - Matrix: `@s0rawastaken:matrix.org`<br/>
   - Linkedin: https://www.linkedin.com/in/matheus-iannuzzi-799955224/<br>
-  
-  _Please prefer emailing or messaging me on Linkedin, thank you!_
+
+  _Email and Linkedin are preferred for professional contact._<br>
+  _For anything else, send me a friend invitation on Discord._
 </details>
 
 ![](https://komarev.com/ghpvc/?username=S0raWasTaken&style=flat-square&color=a900ff)
