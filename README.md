@@ -1,0 +1,19 @@
+Greetings, I'm S0ra, your usual Software Engineer.
+
+In this profile, you'll mostly find software written in Rust, as it's pretty convenient to work with.<br>
+I'm 22 years old. I speak Portuguese natively and I'm C2 level in English.<br>
+I have some experience in blockchain development with [Substrate](https://substrate.dev), since my first job was at [InvArch](https://invarch.network). Nowadays I mostly mess with my own little projects and server stuff.
+
+Have a look at my pinned projects, I think they're pretty cool.
+<details>
+  <summary>Contact me</summary>
+  
+  - Email: `s0ra@duck.com`<br/>
+  - Discord: `s0ra__`<br/>
+  - Matrix: `@0xs0ra:matrix.org`
+
+  _Email and Matrix are preferred for professional contact._<br>
+  _For anything else, send me a friend invitation on Discord (Matrix is welcome too)._
+</details>
+
+![](https://komarev.com/ghpvc/?username=S0raWasTaken&style=flat-square&color=a900ff)
